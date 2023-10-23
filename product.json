@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 2025454,
+        "image": "https://i.ibb.co/M6nVQ2v/headphone-5.webp",
+        "name": "Gaming Headphone",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+        "price": 270
+      },
+      {
+        "id": 305455,
+        "image": "https://i.ibb.co/xDqmwGW/headphone-8.webp",
+        "name": "Headphone with Mic",
+        "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+        "price": 360
+      },
+      {
+        "id": 1020155,
+        "image": "https://i.ibb.co/0XPd7D4/blutooth-4.webp",
+        "name": "Lenovo Wireless Bluetooth",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+        "price": 79.99
+      },
+      {
+        "id": 1205455,
+        "image": "https://i.ibb.co/2d2qBRb/cpu-1.webp",
+        "name": "DeepCool Air Cooler",
+        "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+        "price": 110
+      },
+      {
+        "id": 705455,
+        "image": "https://i.ibb.co/sQmZc0x/watch-5.webp",
+        "name": "Sony Smart Watch",
+        "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+        "price": 189.99
+      },
+      {
+        "id": 805455,
+        "image": "https://i.ibb.co/w4K4TY2/watch-9.webp",
+        "name": "Sony Lady Fitness Watch",
+        "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+        "price": 169
+      },
+      {
+        "id": 905455,
+        "image": "https://i.ibb.co/xqQtGPr/watch-1.webp",
+        "name": "Apple Watch Sport Band",
+        "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+        "price": 399.99
+      }
+    ]
+}
