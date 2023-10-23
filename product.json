@@ -1,5 +1,4 @@
-{
-    "products": [
+[
       {
         "id": 2025454,
         "image": "https://i.ibb.co/M6nVQ2v/headphone-5.webp",
@@ -17,7 +16,7 @@
       {
         "id": 1020155,
         "image": "https://i.ibb.co/0XPd7D4/blutooth-4.webp",
-        "name": "Lenovo Wireless Bluetooth",
+        "name": "Lenovo Wireless",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
         "price": 79.99
       },
@@ -38,16 +37,16 @@
       {
         "id": 805455,
         "image": "https://i.ibb.co/w4K4TY2/watch-9.webp",
-        "name": "Sony Lady Fitness Watch",
+        "name": "Sony Fitness Watch",
         "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
         "price": 169
       },
       {
         "id": 905455,
         "image": "https://i.ibb.co/xqQtGPr/watch-1.webp",
-        "name": "Apple Watch Sport Band",
+        "name": "Apple Watch Sport",
         "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
         "price": 399.99
       }
-    ]
-}
+]
+

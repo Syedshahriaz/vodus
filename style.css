@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
+html,
+body {
+  background: #FFF;
+  font-weight: 400;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+/* utilities START */
+.w-full {
+  width: 100%;
+}
+
+/* utilities END */
+/* classes style START */
+.navbar {
+  padding: 0;
+  border-bottom: 1px solid #e7e7e7;
+}
+.navbar-brand {
+  padding: 0;
+}
+.navbar-brand__logo {
+  width: 80px;
+  margin-bottom: 0;
+}
+
+.content-wrapper {
+  margin: 50px auto;
+}
+
+.card {
+  border: 0;
+  display: block;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fafafa;
+  transition: box-shadow 0.25s;
+  box-shadow: 0 2px 17px #dfdfdf;
+  border: 1px solid #e7e7e7;
+}
+.card:hover {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card .img-card {
+  width: 100%;
+  height: 250px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  display: block;
+  overflow: hidden;
+}
+.card .img-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.25s ease;
+}
+.card-content {
+  padding: 20px;
+  text-align: left;
+}
+.card-title {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+.card-title a {
+  color: #5e5e5e;
+  text-decoration: none !important;
+}
+.card-details {
+  color: #606060;
+  font-size: 15px;
+  margin-bottom: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card .price {
+  display: none;
+}
+.card-read-more {
+  text-align: center;
+  background: #6C30BC;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top: 1px solid #D4D4D4;
+}
+.card-read-more button {
+  color: #fff;
+  padding: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none !important;
+}
+.card-read-more button:hover {
+  color: #fff;
+}
+
+.product-detail .modal-header {
+  color: #fff;
+  background-color: #6C30BC;
+}
+.product-detail .modal-body {
+  padding: 20px;
+}
+.product-detail .img-card img {
+  margin: 0 auto;
+  display: block;
+  max-height: 350px;
+}
+.product-detail .price {
+  display: block;
+  font-weight: 600;
+}
+.product-detail .card-read-more {
+  display: none;
+}
+.product-detail .card-content {
+  padding: 20px 0 0 0;
+  border-top: 1px solid #e7e7e7;
+}
+.product-detail .btn-close {
+  background-color: #fff;
+  opacity: 1;
+}
+
+/* classes style END */
+
+/*# sourceMappingURL=style.css.map */
